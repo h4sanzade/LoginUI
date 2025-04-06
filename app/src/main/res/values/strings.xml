@@ -6,4 +6,6 @@
     <string name="password">Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="or_continue_with">Or continue with</string>
 </resources>
